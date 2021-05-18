@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73195534062",
+    "project_id": "notificaciones-e7a89",
+    "storage_bucket": "notificaciones-e7a89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73195534062:android:ec5323d31b195a93ef65ff",
+        "android_client_info": {
+          "package_name": "com.japocoin.notificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73195534062-e64st3jhe25p2m5e9u47f8l08s3uaa45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf560pHCleifTzKt61VKjYkM3lZgeoCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73195534062-e64st3jhe25p2m5e9u47f8l08s3uaa45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
